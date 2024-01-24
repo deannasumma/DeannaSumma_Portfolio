@@ -152,7 +152,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
+		background-color: #e8eafb;
 		color: #000000;
 	}
 
@@ -324,7 +324,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: #2cddf4;
 		}
 
 	strong, b {
@@ -8559,11 +8559,11 @@ input, select, textarea {
 			}
 
 		#wrapper > .color1 {
-			background-color: #30363d;
+			background-color: #c7dcff;
 		}
 
 		#wrapper > .color2 {
-			background-color: #e0eaed;
+			background-color: #e6fffb;
 		}
 
 		#wrapper > .color3 {

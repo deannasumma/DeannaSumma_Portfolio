@@ -1,39 +1,15 @@
-# ProductLab Portfolio Demo
+# Deanna's Portfolio
 
-Welcome to the ProductLab Portfolio Demo repository!
+Deanna Summa's ProductLab Portfolio Demo Repository
 
-This repository provides a structured template and resources to help ProductLab participants create their own professional online portfolios.
+This repository holds Deanna's portfolio showcasing her product experience and technical skills she learned during ProductLab. It also holds details on the ProductLab projects and links to her other repos.
 
-## Key Features:
+## What I Learned:
+How to manipulate html code and check in realtime the result using the live link. I learned how to create multipe wrappers and manipulate each to have a different effect on the portfolio sections. This helped me learn best practices with ensuring sections and divs are closed and reopened on the correct lines of code.
 
 ### Organized Structure:
 - **Assets folder**: Contains CSS and JavaScript files.
-- **Images folder**: Stores portfolio images.
-- **index.html**: Basic demo HTML file.
-- **index-demo.html**: Example with advanced formatting.
+- **Images folder**: Stores portfolio images Deanna used.
+- **index.html**: Code for Deanna's portfolio.
 
-### Placeholders for Projects:
-- Integrate links to your personal projects.
-
-## Getting Started:
-1. Fork this repository to create your own copy.
-2. Customize the content:
-   - Replace placeholder text and images.
-   - Highlight your skills and projects.
-3. Explore the demo files:
-   - Use `index.html` as a starting point.
-   - Refer to `index-demo.html` for advanced formatting.
-4. Experiment and personalize: Adjust structure and styles to your liking.
-
-## Additional Tips:
-- Clearly articulate your skills.
-- Showcase projects effectively: Provide concise descriptions and highlight key features.
-- Maintain a clean and organized layout.
-- Proofread carefully.
-- Update regularly with new projects and accomplishments.
-
-This demo is a foundation. Make it your own and create a portfolio that reflects your unique talents and potential!
-
-Happy portfolio building!
-
-\- ProductLab Team
+If you would like to download Deanna's portfolio repository, you are more than welcome. Thanks for visiting and feel free to fill out the form in the porfolio to connect!
